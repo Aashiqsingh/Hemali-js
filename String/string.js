@@ -40,7 +40,7 @@ var str2 = " hemali thakkar"
 // var x = str.replaceAll("o","z")
 
 // console.log(x);
-var str = "     Royal technosoft pvt ltd.       ";
+var str = "     Royal technosoft pvt ltd.";
 console.log(str.length);
 
 
@@ -73,6 +73,5 @@ console.log(str.length);
 // var x = str.trim();
 
 // console.log(x.length);
-
 
 
