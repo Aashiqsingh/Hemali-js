@@ -1,0 +1,6 @@
+javascript --> single threded application
+
+java --> multi threded application
+
+
+callback
